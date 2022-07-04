@@ -1,0 +1,43 @@
+body{
+  min-height: 500vh;
+}
+.container-one {
+  width: 200px;
+  height: 40px;
+  border:6px solid violet;
+  border-radius: 10px;
+  position: fixed;
+  left: 20px;
+  top: 10px;
+  text-align: center;
+}
+.container-two {
+  width: 250px;
+  height: 30px;
+  border:10px solid maroon;
+  border-radius: 25px;
+  position: fixed;
+  right: 20px;
+  top: 10px;
+  text-align: center;
+}
+.container-three {
+  width: 150px;
+  height: 50px;
+  border:22px solid forestgreen;
+  border-radius: 9px;
+  position: fixed;
+  left: 20px;
+  bottom: 10px;
+  text-align: center;
+}
+.container-four {
+  width: 100px;
+  height: 120px;
+  border:9px solid violet;
+  border-radius: 15px;
+  position: fixed;
+  right: 20px;
+  bottom: 10px;
+  text-align: center;
+}
