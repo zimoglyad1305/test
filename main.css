@@ -41,3 +41,9 @@ body{
   bottom: 10px;
   text-align: center;
 }
+.text{
+  position: relative;
+  left: 300px;
+  max-width: 60vw;
+  text-align: justify;
+}
